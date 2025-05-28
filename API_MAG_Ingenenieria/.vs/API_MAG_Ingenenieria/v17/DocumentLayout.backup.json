@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|solutionrelative:api_mag_ingenenieria\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|c:\\users\\exemu\\onedrive\\documentos\\1_e-x-e\\proyecto_mag-main\\proyecto_mag-main\\api_mag_ingenenieria\\api_mag_ingenenieria\\models\\dbapi_proyectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|solutionrelative:api_mag_ingenenieria\\models\\dbapi_proyectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|c:\\users\\exemu\\onedrive\\documentos\\1_e-x-e\\proyecto_mag-main\\proyecto_mag-main\\api_mag_ingenenieria\\api_mag_ingenenieria\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|solutionrelative:api_mag_ingenenieria\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|c:\\users\\exemu\\onedrive\\documentos\\1_e-x-e\\proyecto_mag-main\\proyecto_mag-main\\api_mag_ingenenieria\\api_mag_ingenenieria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|solutionrelative:api_mag_ingenenieria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|c:\\users\\exemu\\onedrive\\documentos\\1_e-x-e\\proyecto_mag-main\\proyecto_mag-main\\api_mag_ingenenieria\\api_mag_ingenenieria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|solutionrelative:api_mag_ingenenieria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|c:\\users\\exemu\\onedrive\\documentos\\1_e-x-e\\proyecto_mag-main\\proyecto_mag-main\\api_mag_ingenenieria\\api_mag_ingenenieria\\models\\dbapi_proyectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|solutionrelative:api_mag_ingenenieria\\models\\dbapi_proyectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|c:\\users\\exemu\\onedrive\\documentos\\1_e-x-e\\proyecto_mag-main\\proyecto_mag-main\\api_mag_ingenenieria\\api_mag_ingenenieria\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B2FB48-F2F7-4E86-8B2A-BB7A25E2FBB6}|API_MAG_Ingenenieria\\API_MAG_Ingenenieria.csproj|solutionrelative:api_mag_ingenenieria\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +44,14 @@
               "RelativeDocumentMoniker": "API_MAG_Ingenenieria\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\exemu\\OneDrive\\Documentos\\1_E-X-E\\Proyecto_MAG-main\\Proyecto_MAG-main\\API_MAG_Ingenenieria\\API_MAG_Ingenenieria\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "API_MAG_Ingenenieria\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T18:34:18.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\exemu\\OneDrive\\Documentos\\1_E-X-E\\Proyecto_MAG-main\\Proyecto_MAG-main\\API_MAG_Ingenenieria\\API_MAG_Ingenenieria\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "API_MAG_Ingenenieria\\Models\\Cliente.cs",
@@ -60,20 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\exemu\\OneDrive\\Documentos\\1_E-X-E\\Proyecto_MAG-main\\Proyecto_MAG-main\\API_MAG_Ingenenieria\\API_MAG_Ingenenieria\\Program.cs",
               "RelativeDocumentMoniker": "API_MAG_Ingenenieria\\Program.cs",
               "ToolTip": "C:\\Users\\exemu\\OneDrive\\Documentos\\1_E-X-E\\Proyecto_MAG-main\\Proyecto_MAG-main\\API_MAG_Ingenenieria\\API_MAG_Ingenenieria\\Program.cs",
               "RelativeToolTip": "API_MAG_Ingenenieria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T18:06:45.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\exemu\\OneDrive\\Documentos\\1_E-X-E\\Proyecto_MAG-main\\Proyecto_MAG-main\\API_MAG_Ingenenieria\\API_MAG_Ingenenieria\\appsettings.json",
               "RelativeDocumentMoniker": "API_MAG_Ingenenieria\\appsettings.json",
@@ -86,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DBAPI_PROYECTContext.cs",
               "DocumentMoniker": "C:\\Users\\exemu\\OneDrive\\Documentos\\1_E-X-E\\Proyecto_MAG-main\\Proyecto_MAG-main\\API_MAG_Ingenenieria\\API_MAG_Ingenenieria\\Models\\DBAPI_PROYECTContext.cs",
               "RelativeDocumentMoniker": "API_MAG_Ingenenieria\\Models\\DBAPI_PROYECTContext.cs",
               "ToolTip": "C:\\Users\\exemu\\OneDrive\\Documentos\\1_E-X-E\\Proyecto_MAG-main\\Proyecto_MAG-main\\API_MAG_Ingenenieria\\API_MAG_Ingenenieria\\Models\\DBAPI_PROYECTContext.cs",
               "RelativeToolTip": "API_MAG_Ingenenieria\\Models\\DBAPI_PROYECTContext.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T18:01:24.258Z",
               "EditorCaption": ""

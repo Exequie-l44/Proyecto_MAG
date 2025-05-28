@@ -73,3 +73,4 @@ C:\Users\exemu\OneDrive\Documentos\1_E-X-E\Proyecto_MAG-main\Proyecto_MAG-main\A
 C:\Users\exemu\OneDrive\Documentos\1_E-X-E\Proyecto_MAG-main\Proyecto_MAG-main\API_MAG_Ingenenieria\API_MAG_Ingenenieria\obj\Debug\net6.0\ref\API_MAG_Ingenenieria.dll
 C:\Users\exemu\OneDrive\Documentos\1_E-X-E\Proyecto_MAG-main\Proyecto_MAG-main\API_MAG_Ingenenieria\API_MAG_Ingenenieria\bin\Debug\net6.0\Humanizer.dll
 C:\Users\exemu\OneDrive\Documentos\1_E-X-E\Proyecto_MAG-main\Proyecto_MAG-main\API_MAG_Ingenenieria\API_MAG_Ingenenieria\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\exemu\OneDrive\Documentos\1_E-X-E\Proyecto_MAG-main\Proyecto_MAG-main\API_MAG_Ingenenieria\API_MAG_Ingenenieria\obj\Debug\net6.0\API_MAG_Ingenenieria.sourcelink.json

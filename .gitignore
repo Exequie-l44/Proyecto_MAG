@@ -1,0 +1,57 @@
+########################################
+# .NET Core / .NET 6+ general
+########################################
+bin/
+obj/
+out/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.dll
+*.exe
+*.app
+*.pdb
+
+# Visual Studio-specific
+.vs/
+*.dbmdl
+*.cache
+*.sdf
+*.VC.db
+*.ncb
+*.opendb
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# SQL Server (localdb, cache files, backups)
+*.mdf
+*.ldf
+*.bak
+
+# DotCover
+*.dotCover
+
+# ASP.NET Core
+appsettings.*.json
+secrets.json
+
+# Entity Framework Core
+Migrations/*Designer.cs
+Migrations/*Snapshot.cs
+
+# npm / node_modules (si usas frontend)
+node_modules/
+
+# Others
+*.DS_Store
+Thumbs.db

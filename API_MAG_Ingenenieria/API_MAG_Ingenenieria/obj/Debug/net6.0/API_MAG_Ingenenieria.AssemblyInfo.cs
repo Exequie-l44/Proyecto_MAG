@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_MAG_Ingenenieria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30fc706d7e4d864e97408ba3e823c574aeba1219")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_MAG_Ingenenieria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_MAG_Ingenenieria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

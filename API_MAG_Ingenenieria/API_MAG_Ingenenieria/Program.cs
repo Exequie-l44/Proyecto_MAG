@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using API_MAG_Ingenenieria.Models;
+using System.Text.Json.Serialization;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,13 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<DBAPI_PROYECTContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("cadenaSQL")));
+
+builder.Services.AddControllers().AddJsonOptions(opt =>
+    {
+        //Ignora la refencia Cyclica infinita
+        opt.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
+    }
+);
 
 var app = builder.Build();
 

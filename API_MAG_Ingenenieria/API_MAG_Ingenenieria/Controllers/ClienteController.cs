@@ -13,6 +13,7 @@ namespace API_MAG_Ingenenieria.Controllers
 
         public ClienteController (DBAPI_PROYECTContext _context)
         {
+            //utilizamos _dbContext las funcione CRUD 
             _dbContext = _context;
         }
 
@@ -32,7 +33,6 @@ namespace API_MAG_Ingenenieria.Controllers
             {
                 return StatusCode(StatusCodes.Status200OK, new { mensaje = ex.Message, response = lista });
             }
-
 
         }
 
